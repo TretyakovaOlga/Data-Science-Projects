@@ -2,7 +2,9 @@
 _______
 
 ## NLP: Определение токсичности комментариев
-https://github.com/TretyakovaOlga/Education-Projects-Description/blob/main/Toxic_comments_predict.ipynb </br>
+[Toxic_comments_predict.ipynb] (Toxic_comments_predict.ipynb)
+
+
 **Задача:** построить модель для отсева токсичных комментариев. Метрика f1 - не менее 0.75.</br>
 </br>
 Для создания словаря используется размеченный набор с комментариями. Лемматизация проводится с помощью nltk. Для получения признаков использованы мешок слов, TF-IDF, биграммы и word2vec.</br>
