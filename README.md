@@ -20,7 +20,7 @@ https://github.com/TretyakovaOlga/Education-Projects-Description/blob/main/Predi
 </br>
 </br>
 ## Анализ тарифов для оператора связа
-(ссылка)
+https://github.com/TretyakovaOlga/Education-Projects-Description/blob/main/Telecom_tariffs_analysis.ipynb
 **Задача:** необходимо проанализировать поведение пользователей и определить более прибыльный тариф </br>
 Проведен анализ поведения пользователей при пользовании услугами связи. Проверены гипотезы о различии средней выручки тарифов, а также о различии выручки в Москве и других регионах.
 </br>
