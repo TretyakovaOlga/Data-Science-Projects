@@ -2,7 +2,7 @@
 _______
 
 ## NLP: Определение токсичности комментариев
-(ссылка)</br>
+https://github.com/TretyakovaOlga/Education-Projects-Description/blob/main/Toxic_comments_predict.ipynb </br>
 **Задача:** построить модель для отсева токсичных комментариев. Метрика f1 - не менее 0.75.</br>
 </br>
 Для создания словаря используется размеченный набор с комментариями. Лемматизация проводится с помощью nltk. Для получения признаков использованы мешок слов, TF-IDF, биграммы и word2vec.</br>
@@ -19,8 +19,8 @@ _______
 Библиотеки: sklearn, lightgbm, catboost</br>
 </br>
 </br>
-## Анализ тарифов для оператора связа
-https://github.com/TretyakovaOlga/Education-Projects-Description/blob/main/Telecom_tariffs_analysis.ipynb
+## Анализ тарифов для оператора связи
+https://github.com/TretyakovaOlga/Education-Projects-Description/blob/main/Telecom_tariffs_analysis.ipynb </br>
 **Задача:** необходимо проанализировать поведение пользователей и определить более прибыльный тариф </br>
 Проведен анализ поведения пользователей при пользовании услугами связи. Проверены гипотезы о различии средней выручки тарифов, а также о различии выручки в Москве и других регионах.
 </br>
