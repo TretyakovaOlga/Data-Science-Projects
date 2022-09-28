@@ -2,7 +2,7 @@
 _______
 
 ## NLP: Определение токсичности комментариев
-[Toxic_comments_predict.ipynb] (Toxic_comments_predict.ipynb)
+[Toxic_comments_predict.ipynb](Toxic_comments_predict.ipynb)
 
 
 **Задача:** построить модель для отсева токсичных комментариев. Метрика f1 - не менее 0.75.</br>
