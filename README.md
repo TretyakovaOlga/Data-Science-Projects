@@ -3,7 +3,7 @@
 
 ## Kaggle
 
-[HSE | 2nd Step In NLP | Salary prediction](https://www.kaggle.com/code/olgatretyakova/3rd-w2v-tf-idf-countvectorizer)  3|55
+[HSE | 2nd Step In NLP | Salary prediction](https://www.kaggle.com/code/olgatretyakova/3rd-w2v-tf-idf-countvectorizer) - 3/55
 
 ## Проекты Яндекс.Практикума
 
