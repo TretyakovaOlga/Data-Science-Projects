@@ -1,6 +1,10 @@
 # Список проектов
 Привет. Здесь вы можете ознакомиться с некоторыми моими DS и DA проектами.
 
+## Kaggle
+
+[HSE | 2nd Step In NLP | Salary prediction](https://www.kaggle.com/code/olgatretyakova/3rd-w2v-tf-idf-countvectorizer)  3|55
+
 ## Проекты Яндекс.Практикума
 
 ### ML и NLP проекты
