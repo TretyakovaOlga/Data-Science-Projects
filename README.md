@@ -11,7 +11,7 @@
 
 
 ## Kaggle
-[Векторный поиск в задаче матчинга](https://github.com/TretyakovaOlga/Samokat_workshop) - 3/25</br>
+[Яндекс & Samokat.tech | Векторный поиск в задаче матчинга](https://github.com/TretyakovaOlga/Samokat_workshop) - 3/25</br>
 [HSE | 2nd Step In NLP | Salary prediction](https://www.kaggle.com/code/olgatretyakova/3rd-w2v-tf-idf-countvectorizer) - 3/55</br>
 [Магнит & МОВС, ФКН ВШЭ | RecSys на практике](https://www.kaggle.com/competitions/recsys-in-practice/leaderboard) -- [Решение(colab)](https://colab.research.google.com/drive/1Slauh_18yNpBxL9RRfQvKQJpmogfO1aK) - 43/84</br>
 
